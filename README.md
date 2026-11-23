@@ -5,7 +5,7 @@
 Merge several Bambu Studio 3MF projects onto one build plate while keeping each model’s supported print settings.
 
 **Windows 10/11 x64 · 1.0 · 本地处理 / Runs locally**  
-[中文](#中文) · [English](#english) · [开发交接 / Developer history](DEVELOPER_HISTORY.md)
+[中文](#中文) · [English](#english) · [开发交接 / Developer history](https://github.com/axznl1022-eng/PlateJoin-3MF-/blob/main/DEVELOPER_HISTORY.md)
 
 ## 中文
 
@@ -32,7 +32,7 @@ Merge several Bambu Studio 3MF projects onto one build plate while keeping each 
 - 输入和输出都是 **Bambu Studio 打印项目（.3mf）**。仅凭扩展名无法判断一个 3MF 是否带有打印配置。STL、OBJ 和 G-code 无法直接作为合并输入。
 - 程序保留模型位置。两份项目的模型可能恰好都在板中央，合并后需要在 Studio 里移开。软件不自动排版。
 - 多喷嘴、复杂 AMS 和超大项目的验证有限。面涂色遇到不支持的耗材槽换序时会阻止合并。
-- 基本合并可以离线使用。开发测试主要使用 Bambu Studio 02.09.01.70。[测试记录](docs/TEST_REPORT_v084.md)
+- 基本合并可以离线使用。开发测试主要使用 Bambu Studio 02.09.01.70。[测试记录](https://github.com/axznl1022-eng/PlateJoin-3MF-/blob/main/TEST_REPORT_v084.md)
 
 ## English
 
@@ -57,7 +57,7 @@ PlateJoin works locally with Bambu Studio 3MF projects that contain print settin
 
 ## 开发与反馈 / Development and feedback
 
-[开发历史与修复记录 / Developer history](DEVELOPER_HISTORY.md) · [合并规则 / Contracts](docs/CONTRACTS.md) · [Studio 验证记录 / Validation notes](docs/STUDIO_STABILITY.md)
+[开发历史与修复记录 / Developer history](https://github.com/axznl1022-eng/PlateJoin-3MF-/blob/main/DEVELOPER_HISTORY.md) · [合并规则 / Contracts](https://github.com/axznl1022-eng/PlateJoin-3MF-/blob/main/CONTRACTS.md) · [Studio 验证记录 / Validation notes](https://github.com/axznl1022-eng/PlateJoin-3MF-/blob/main/STUDIO_STABILITY.md)
 
 反馈时请附工具版本、Studio 版本、复现步骤和报错信息。  
 When reporting a problem, include both version numbers, the steps to reproduce it and the error message.
