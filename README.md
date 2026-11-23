@@ -64,8 +64,12 @@ When reporting a problem, include both version numbers, the steps to reproduce i
 
 独立社区工具，与 Bambu Lab 无官方关联。第三方许可随软件附带，项目整体许可情况见开发交接文档。  
 Independent community tool, unaffiliated with Bambu Lab. Third-party notices are bundled. See the developer history for project licensing status.
-> ##🐾 既然你看到这里了，那就告诉你：
-> ##我是一个什么代码都不会的小猫 🐱
-> ##本期作品是由 DeepSeek V4.1 flash 1017 和 ChatGPT 6GPT-6 Astra 交叉完成制作以及绝大多数测试！
+<div align="center">
+
+**🐾 既然你看到这里了，那就告诉你 🐾**
+**我是一个什么代码都不会的小猫 🐱**
+**本期作品是由 DeepSeek V4.1 flash 1017 和 ChatGPT 6GPT-6 Astra 交叉完成制作以及绝大多数测试！**
+
+</div>
 > <img width="472" height="472" alt="xiaomao" src="https://github.com/user-attachments/assets/39410fcc-ec64-4af2-9289-875f849a3f31" />
 
