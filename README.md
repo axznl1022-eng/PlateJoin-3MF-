@@ -67,7 +67,7 @@ Independent community tool, unaffiliated with Bambu Lab. Third-party notices are
 <div align="center">
 
 <details>
-  <summary><b>🚫 不要打开 🚫</b>（既然你这么好奇，那就点一下吧）</summary>
+  <summary><b>🚫 不要打开 🚫</b></summary>
   <br>
 
   ### 想说点什么
