@@ -68,12 +68,21 @@ Independent community tool, unaffiliated with Bambu Lab. Third-party notices are
 
 ## 想说点什么
 
-**🐾 既然你看到这里了，那就告诉你 🐾**
-**我是一个什么代码都不会的小猫 🐱**
-**本期作品是由 DeepSeek V4.1 flash 1017 和 ChatGPT-6 Astra 交叉完成制作以及绝大多数测试！** <img width="200" height="200" alt="xiaomao" src="https://github.com/user-attachments/assets/39410fcc-ec64-4af2-9289-875f849a3f31" />
-
-**呜呜，截至2026年11月22日8:41为了这个软件，已经烧掉了约40元CNY的token了 够小猫吃4顿烤肉拌饭了** <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/bb4e133c-1639-41c2-b9f0-93eb5264e179" />
-
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <p><b>🐾 既然你看到这里了，那就告诉你 🐾</b></p>
+      <p><b>我是一个什么代码都不会的小猫 🐱</b></p>
+      <p><b>本期作品是由 DeepSeek V4.1 flash 1017 和 ChatGPT-6 Astra 交叉完成制作以及绝大多数测试！</b></p>
+      <p><b>呜呜，截至2026年11月22日8:41为了这个软件，已经烧掉了约40元CNY的token了 够小猫吃4顿烤肉拌饭了</b></p>
+    </td>
+    <td valign="top" width="30%" align="center">
+      <img width="140" alt="xiaomao" src="https://github.com/user-attachments/assets/39410fcc-ec64-4af2-9289-875f849a3f31" />
+      <br><br>
+      <img width="140" alt="image" src="https://github.com/user-attachments/assets/bb4e133c-1639-41c2-b9f0-93eb5264e179" />
+    </td>
+  </tr>
+</table>
 
 
 </div>
