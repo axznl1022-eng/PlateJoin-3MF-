@@ -68,7 +68,7 @@ Independent community tool, unaffiliated with Bambu Lab. Third-party notices are
 
 **🐾 既然你看到这里了，那就告诉你 🐾**
 **我是一个什么代码都不会的小猫 🐱**
-**本期作品是由 DeepSeek V4.1 flash 1017 和 ChatGPT 6GPT-6 Astra 交叉完成制作以及绝大多数测试！**
+**本期作品是由 DeepSeek V4.1 flash 1017 和 ChatGPT-6 Astra 交叉完成制作以及绝大多数测试！**
 
 </div>
 > <img width="472" height="472" alt="xiaomao" src="https://github.com/user-attachments/assets/39410fcc-ec64-4af2-9289-875f849a3f31" />
